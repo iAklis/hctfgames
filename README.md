@@ -1,5 +1,6 @@
 # hctf电竞社writeup
 ## git教程
+* 土土老司机提供：http://www.lorexxar.xyz/2016/02/18/easy_git/#more
 * 推荐教程：https://try.github.io/levels/1/challenges/1
 * http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
 * https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html
