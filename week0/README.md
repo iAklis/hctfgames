@@ -5,4 +5,5 @@
 * [LoRexxar 2016.2.18] http://www.lorexxar.xyz/2016/02/18/hctfgame_week0_writeup/#more
 * [zebra233 2016.2.18] https://github.com/zebra0/hctfgames/blob/master/CTFGAME-week0.md
 * [Heart-Sky 2016.2.26] https://github.com/Heart-Sky/CTF/blob/master/Winter-Training/week0/week0.md
-
+* [Undefinedv 2016.2.26] https://www.zybuluo.com/Undefinedv/note/295814
+* [Bigmud 2016.2.26] https://www.zybuluo.com/bigmud/note/295716
