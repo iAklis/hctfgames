@@ -8,3 +8,5 @@
 * [Undefinedv 2016.2.26] https://www.zybuluo.com/Undefinedv/note/295814
 * [Bigmud 2016.2.26] https://www.zybuluo.com/bigmud/note/295716
 * [MooningDream 2016.2.26] https://www.zybuluo.com/MooningDream/note/295916
+* [依依 2016.2.28] https://www.zybuluo.com/yiyi11/note/296942 
+* [333han 2016.2.28] https://www.zybuluo.com/333han/note/295765
