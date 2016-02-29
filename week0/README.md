@@ -16,3 +16,4 @@
 * [IDtata 2016.2.29] https://github.com/IDtata/hctfgame_writeup/blob/master/Week0/Week0.md 
 * [Freedom 2016.2.29] https://github.com/BlueOzone/CTF/blob/master/week0.md
 * [Blackleaf 2016.2.29] https://www.zybuluo.com/blackleaf/note/296893
+* [waiting 2016.2.29] https://www.zybuluo.com/waiting/note/298148

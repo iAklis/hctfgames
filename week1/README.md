@@ -7,3 +7,5 @@
 * [Undefinedv 2016.2.29] https://www.zybuluo.com/Undefinedv/note/297476
 * [Jibo 2016.2.29] https://www.zybuluo.com/jibo/note/297773
 * [Width 2016.2.29] https://www.zybuluo.com/Width/note/285118
+* [AbrahamYLee 2016.2.29] https://www.zybuluo.com/AbrahamYLee/note/298111
+* [waiting 2016.2.29] https://www.zybuluo.com/waiting/note/298180
