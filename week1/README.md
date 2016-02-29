@@ -4,4 +4,5 @@
 * [Spine 2016.2.18] http://spinee.gitcafe.io/2016/02/26/practice1/#Week1
 * [zebra233 2016.2.19] https://github.com/zebra0/hctfgames/blob/master/CTFGAME_week1.md
 * [Heart-Sky 2016.2.26] https://github.com/Heart-Sky/CTF/blob/master/Winter-Training/week1/week1.md
-
+* [Undefinedv 2016.2.29] https://www.zybuluo.com/Undefinedv/note/297476
+* [Jibo 2016.2.29] https://www.zybuluo.com/jibo/note/297773

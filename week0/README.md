@@ -10,3 +10,7 @@
 * [MooningDream 2016.2.26] https://www.zybuluo.com/MooningDream/note/295916
 * [依依 2016.2.28] https://www.zybuluo.com/yiyi11/note/296942 
 * [333han 2016.2.28] https://www.zybuluo.com/333han/note/295765
+* [cesign 2016.2.29] http://blog.leanote.com/post/qq-cesign/WEEK0
+* [stray 2016.2.29] https://www.zybuluo.com/stray/note/297478
+* [Jibo 2016.2.29] https://www.zybuluo.com/jibo/note/297691 
+* [IDtata 2016.2.29] https://github.com/IDtata/hctfgame_writeup/blob/master/Week0/Week0.md 
