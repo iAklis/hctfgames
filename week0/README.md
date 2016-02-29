@@ -14,3 +14,4 @@
 * [stray 2016.2.29] https://www.zybuluo.com/stray/note/297478
 * [Jibo 2016.2.29] https://www.zybuluo.com/jibo/note/297691 
 * [IDtata 2016.2.29] https://github.com/IDtata/hctfgame_writeup/blob/master/Week0/Week0.md 
+* [Freedom 2016.2.29] https://github.com/BlueOzone/CTF/blob/master/week0.md
