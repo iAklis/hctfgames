@@ -20,3 +20,4 @@
 * [AbrahamYLee 2016.3.1] https://zybuluo.com/AbrahamYLee/note/297950
 * [wulalala 2016.3.1] https://www.zybuluo.com/wulalala/note/298067
 * [TechRex 2016.3.1] http://www.techrex.net/ctf/hctfgames_wp0.html
+* [VictoriqueDeBlois 2016.3.1] https://github.com/VictoriqueDeBlois/HCTF/blob/master/Week%200.md
