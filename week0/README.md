@@ -19,3 +19,4 @@
 * [waiting 2016.2.29] https://www.zybuluo.com/waiting/note/298148
 * [AbrahamYLee 2016.3.1] https://zybuluo.com/AbrahamYLee/note/297950
 * [wulalala 2016.3.1] https://www.zybuluo.com/wulalala/note/298067
+* [TechRex 2016.3.1] http://www.techrex.net/ctf/hctfgames_wp0.html
