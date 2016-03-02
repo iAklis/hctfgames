@@ -21,3 +21,5 @@
 * [wulalala 2016.3.1] https://www.zybuluo.com/wulalala/note/298067
 * [TechRex 2016.3.1] http://www.techrex.net/ctf/hctfgames_wp0.html
 * [VictoriqueDeBlois 2016.3.1] https://github.com/VictoriqueDeBlois/HCTF/blob/master/Week%200.md
+* [Fanyuanmeng 2016.3.1] https://www.zybuluo.com/Fanyuanmeng/note/299293
+* [RichardLeeeeeee 2016.3.2] https://www.zybuluo.com/RichardLeeeeeee/note/299795
