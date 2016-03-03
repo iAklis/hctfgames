@@ -12,3 +12,4 @@
 * [VictoriqueDeBlois 2016.3.1] https://github.com/VictoriqueDeBlois/HCTF/blob/master/Week%201.md
 * [333han 2016.3.2] https://www.zybuluo.com/333han/note/295796
 * [wulalala 2016.3.3] https://www.zybuluo.com/wulalala/note/301607
+* [Bigmud 2016.3.3] https://www.zybuluo.com/bigmud/note/301444
