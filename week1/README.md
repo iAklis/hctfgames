@@ -14,3 +14,4 @@
 * [wulalala 2016.3.3] https://www.zybuluo.com/wulalala/note/301607
 * [Bigmud 2016.3.3] https://www.zybuluo.com/bigmud/note/301444
 * [Stray 2016.3.3] https://www.zybuluo.com/stray/note/301690 
+* [21emerald 2016.3.5] http://qifa.me/?p=203#week1

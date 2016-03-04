@@ -23,3 +23,4 @@
 * [VictoriqueDeBlois 2016.3.1] https://github.com/VictoriqueDeBlois/HCTF/blob/master/Week%200.md
 * [Fanyuanmeng 2016.3.1] https://www.zybuluo.com/Fanyuanmeng/note/299293
 * [RichardLeeeeeee 2016.3.2] https://www.zybuluo.com/RichardLeeeeeee/note/299795
+* [21emerald 2016.3.5] http://qifa.me/?p=203#week0
