@@ -18,3 +18,4 @@
 * [journeysky 2016.3.5] https://github.com/journeysky/journey-sky-wp/blob/week1/README.md
 * [flypig 2016.3.6] http://hctf.flypig233.cn/week1/Week_1.html
 * [MooningDream 2016.3.6] https://www.zybuluo.com/MooningDream/note/303741
+* [IDtata 2016.3.6] https://github.com/IDtata/hctfgame_writeup/blob/master/Week1/Week1.md
