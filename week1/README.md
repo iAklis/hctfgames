@@ -16,3 +16,5 @@
 * [Stray 2016.3.3] https://www.zybuluo.com/stray/note/301690 
 * [21emerald 2016.3.5] http://qifa.me/?p=203#week1
 * [journeysky 2016.3.5] https://github.com/journeysky/journey-sky-wp/blob/week1/README.md
+* [flypig 2016.3.6] http://hctf.flypig233.cn/week1/Week_1.html
+* [MooningDream 2016.3.6] https://www.zybuluo.com/MooningDream/note/303741
